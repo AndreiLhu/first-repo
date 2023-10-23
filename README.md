@@ -32,5 +32,5 @@ const student = {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
-}
+}}
 ```
