@@ -17,3 +17,7 @@
 ## Link to a page 
 
 [Google](https://www.google.com/)
+
+## Image
+
+![Google](https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/streams/2013/March/130326/1C6639340-google-logo.jpg)
