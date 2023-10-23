@@ -25,11 +25,11 @@
 
 ### Code Block
 
-	``` Js
-
+``` Js
 const cohort = "Anna"
 const student = {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
+```
